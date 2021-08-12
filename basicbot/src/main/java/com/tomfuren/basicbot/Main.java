@@ -21,7 +21,7 @@ public class Main extends ListenerAdapter {
     public static void main(String[] args) {
 
         //token here(tomoki)
-        jdaBuilder = JDABuilder.createDefault("ODc1NDcwMTAyNzI2ODUyNzA4.YRV_EQ.nghLWbPB0934sDFxWzd7mQasERc");
+        jdaBuilder = JDABuilder.createDefault("Your tokun");
 
         //status 宣言 (bot status)
         jdaBuilder.setStatus(OnlineStatus.IDLE);
